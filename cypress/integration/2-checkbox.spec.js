@@ -3,7 +3,7 @@
 describe('tests for the checkbox filters', () => {
 
   beforeEach(() => {
-    cy.visit('http://localhost:8765');
+    cy.visit('/');
   });
 
   it('can uncheck the explicit checkbox', () => {

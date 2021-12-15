@@ -7,8 +7,8 @@ describe('tests to see if Cypress is working', () => {
 
   it('can visit the a web page', () => {
 
-    cy.visit('http://localhost:8765');
-    
+    cy.visit('/');
+
   });
 
 });
