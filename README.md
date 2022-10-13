@@ -65,3 +65,4 @@ npm run cypress
 ### Useful Links
 - [Cypress Docs](https://docs.cypress.io/api/api/table-of-contents.html)
 - [Cypress Best Practices (Official)](https://docs.cypress.io/guides/references/best-practices.html)
+
